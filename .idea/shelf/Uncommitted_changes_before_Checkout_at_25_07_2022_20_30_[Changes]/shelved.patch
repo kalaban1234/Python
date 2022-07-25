@@ -1,0 +1,13 @@
+Index: new file for git.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"hello GIT\")
+===================================================================
+diff --git a/new file for git.py b/new file for git.py
+--- a/new file for git.py	
++++ b/new file for git.py	
+@@ -1,1 +1,1 @@
+-print("hello GIT")
+\ No newline at end of file
++print("hello GIT1")
+\ No newline at end of file
